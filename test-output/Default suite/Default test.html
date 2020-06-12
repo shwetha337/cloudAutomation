@@ -1,0 +1,249 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon May 11 09:36:37 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>962 seconds (962926 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-u7owvk5mqxptu.eastus2.cloudapp.azure.com:8080/nifi/, FRIESFINANCIAL<br/>
+<a href="#Output-87674905" onClick='toggleBox("Output-87674905", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-87674905" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-87674905">
+Checking for the client palmdrsa-u7owvk5mqxptu.eastus2.cloudapp.azure.com:8080/nifi/ Client Name is FRIESFINANCIAL<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 64 / 10.66 KB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>99</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-nt7uozdylobzg.eastus.cloudapp.azure.com:8080/nifi/, WipfliUS<br/>
+<a href="#Output-743778731" onClick='toggleBox("Output-743778731", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-743778731" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-743778731">
+Checking for the client palmdrsa-nt7uozdylobzg.eastus.cloudapp.azure.com:8080/nifi/ Client Name is WipfliUS<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 13,819 / 26.72 MB<br/>
+More than 25MB : Error taking the screenshot<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>89</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-sxsxigpx4yj4k.westus.cloudapp.azure.com:8080/nifi/, HPG<br/>
+<a href="#Output-180316302" onClick='toggleBox("Output-180316302", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-180316302" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-180316302">
+Checking for the client palmdrsa-sxsxigpx4yj4k.westus.cloudapp.azure.com:8080/nifi/ Client Name is HPG<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 11 / 14.97 KB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>86</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-rvkpxf73t5m64.eastus.cloudapp.azure.com:8080/nifi/, Paladion Networks - With O365<br/>
+<a href="#Output-690822257" onClick='toggleBox("Output-690822257", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-690822257" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-690822257">
+Checking for the client palmdrsa-rvkpxf73t5m64.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks - With O365<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 12 / 14.03 KB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>86</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-3263t7bgjnuku.eastus.cloudapp.azure.com:8080/nifi/, Paladion Networks<br/>
+<a href="#Output-862025017" onClick='toggleBox("Output-862025017", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-862025017" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-862025017">
+Checking for the client palmdrsa-3263t7bgjnuku.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 1,519 / 99.87 MB<br/>
+More than 25MB : Error taking the screenshot<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>89</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-ll42hvde4ghfu.southindia.cloudapp.azure.com:8080/nifi/, UPL<br/>
+<a href="#Output-649630909" onClick='toggleBox("Output-649630909", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-649630909" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-649630909">
+Checking for the client palmdrsa-ll42hvde4ghfu.southindia.cloudapp.azure.com:8080/nifi/ Client Name is UPL<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 24,454 / 44.24 MB<br/>
+More than 25MB : Error taking the screenshot<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>84</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: palmdrsa-vlpnybdm62kk2.westeurope.cloudapp.azure.com:8080/nifi/, Al Muhaidib<br/>
+<a href="#Output-1699265405" onClick='toggleBox("Output-1699265405", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1699265405" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1699265405">
+Checking for the client palmdrsa-vlpnybdm62kk2.westeurope.cloudapp.azure.com:8080/nifi/ Client Name is Al Muhaidib<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 1 / 1.97 KB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>86</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: http://palmdrsa-uuixbybw5myyq.eastus.cloudapp.azure.com:8080/nifi/, Single LEC<br/>
+<a href="#Output-533956291" onClick='toggleBox("Output-533956291", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-533956291" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-533956291">
+Checking for the client http://palmdrsa-uuixbybw5myyq.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Single LEC<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 0 / 0 bytes<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+No errors found!!! in Nifi Flow<br/>
+</div>
+</td>
+<td></td>
+<td>125</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: http://13.234.20.246:9090/nifi/, 13.234.20.246<br/>
+<a href="#Output-2090563811" onClick='toggleBox("Output-2090563811", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2090563811" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2090563811">
+Checking for the client http://13.234.20.246:9090/nifi/ Client Name is 13.234.20.246<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 2,559 / 1.57 MB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+Error exist in the Nifi Flow,Taking the screenshot<br/>
+</div>
+</td>
+<td></td>
+<td>85</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+<tr>
+<td title='cloudAutomation.CheckingTheErrors.getUrlAndName()'><b>getUrlAndName</b><br>Test class: cloudAutomation.CheckingTheErrors<br>Parameters: http://34.201.22.147:9090/nifi/, 34.201.22.147<br/>
+<a href="#Output-945064729" onClick='toggleBox("Output-945064729", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-945064729" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-945064729">
+Checking for the client http://34.201.22.147:9090/nifi/ Client Name is 34.201.22.147<br/>
+Checking forTotal Queued data<br/>
+The Total queued data found is 19 / 17.36 KB<br/>
+Checked for Total Queued data, Queued data is not more than 25MB<br/>
+Checking for error messages<br/>
+No errors found!!! in Nifi Flow<br/>
+</div>
+</td>
+<td></td>
+<td>125</td>
+<td>cloudAutomation.CheckingTheErrors@56cbfb61</td></tr>
+</table><p>
+</body>
+</html>

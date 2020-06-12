@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-u7owvk5mqxptu.eastus2.cloudapp.azure.com:8080/nifi/ Client Name is FRIESFINANCIAL]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 64 / 10.66 KB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-nt7uozdylobzg.eastus.cloudapp.azure.com:8080/nifi/ Client Name is WipfliUS]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 13,819 / 26.72 MB]]>
+    </line>
+    <line>
+      <![CDATA[More than 25MB : Error taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-sxsxigpx4yj4k.westus.cloudapp.azure.com:8080/nifi/ Client Name is HPG]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 11 / 14.97 KB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-rvkpxf73t5m64.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks - With O365]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 12 / 14.03 KB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-3263t7bgjnuku.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 1,519 / 99.87 MB]]>
+    </line>
+    <line>
+      <![CDATA[More than 25MB : Error taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-ll42hvde4ghfu.southindia.cloudapp.azure.com:8080/nifi/ Client Name is UPL]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 24,454 / 44.24 MB]]>
+    </line>
+    <line>
+      <![CDATA[More than 25MB : Error taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client palmdrsa-vlpnybdm62kk2.westeurope.cloudapp.azure.com:8080/nifi/ Client Name is Al Muhaidib]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 1 / 1.97 KB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client http://palmdrsa-uuixbybw5myyq.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Single LEC]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 0 / 0 bytes]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[No errors found!!! in Nifi Flow]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client http://13.234.20.246:9090/nifi/ Client Name is 13.234.20.246]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 2,559 / 1.57 MB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Checking for the client http://34.201.22.147:9090/nifi/ Client Name is 34.201.22.147]]>
+    </line>
+    <line>
+      <![CDATA[Checking forTotal Queued data]]>
+    </line>
+    <line>
+      <![CDATA[The Total queued data found is 19 / 17.36 KB]]>
+    </line>
+    <line>
+      <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+    </line>
+    <line>
+      <![CDATA[Checking for error messages]]>
+    </line>
+    <line>
+      <![CDATA[No errors found!!! in Nifi Flow]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="962926" started-at="2020-05-11T04:06:37Z" finished-at="2020-05-11T04:22:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="962926" started-at="2020-05-11T04:06:37Z" finished-at="2020-05-11T04:22:40Z">
+      <class name="cloudAutomation.CheckingTheErrors">
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="99990" started-at="2020-05-11T09:36:42Z" data-provider="getData" finished-at="2020-05-11T09:38:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-u7owvk5mqxptu.eastus2.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FRIESFINANCIAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-u7owvk5mqxptu.eastus2.cloudapp.azure.com:8080/nifi/ Client Name is FRIESFINANCIAL]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 64 / 10.66 KB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="89116" started-at="2020-05-11T09:38:22Z" data-provider="getData" finished-at="2020-05-11T09:39:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-nt7uozdylobzg.eastus.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WipfliUS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-nt7uozdylobzg.eastus.cloudapp.azure.com:8080/nifi/ Client Name is WipfliUS]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 13,819 / 26.72 MB]]>
+            </line>
+            <line>
+              <![CDATA[More than 25MB : Error taking the screenshot]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="86994" started-at="2020-05-11T09:39:51Z" data-provider="getData" finished-at="2020-05-11T09:41:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-sxsxigpx4yj4k.westus.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HPG]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-sxsxigpx4yj4k.westus.cloudapp.azure.com:8080/nifi/ Client Name is HPG]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 11 / 14.97 KB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="86856" started-at="2020-05-11T09:41:18Z" data-provider="getData" finished-at="2020-05-11T09:42:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-rvkpxf73t5m64.eastus.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Paladion Networks - With O365]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-rvkpxf73t5m64.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks - With O365]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 12 / 14.03 KB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="89122" started-at="2020-05-11T09:42:45Z" data-provider="getData" finished-at="2020-05-11T09:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-3263t7bgjnuku.eastus.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Paladion Networks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-3263t7bgjnuku.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Paladion Networks]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 1,519 / 99.87 MB]]>
+            </line>
+            <line>
+              <![CDATA[More than 25MB : Error taking the screenshot]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="84048" started-at="2020-05-11T09:44:14Z" data-provider="getData" finished-at="2020-05-11T09:45:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-ll42hvde4ghfu.southindia.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UPL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-ll42hvde4ghfu.southindia.cloudapp.azure.com:8080/nifi/ Client Name is UPL]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 24,454 / 44.24 MB]]>
+            </line>
+            <line>
+              <![CDATA[More than 25MB : Error taking the screenshot]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="86597" started-at="2020-05-11T09:45:38Z" data-provider="getData" finished-at="2020-05-11T09:47:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[palmdrsa-vlpnybdm62kk2.westeurope.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Al Muhaidib]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client palmdrsa-vlpnybdm62kk2.westeurope.cloudapp.azure.com:8080/nifi/ Client Name is Al Muhaidib]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 1 / 1.97 KB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="125443" started-at="2020-05-11T09:47:05Z" data-provider="getData" finished-at="2020-05-11T09:49:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://palmdrsa-uuixbybw5myyq.eastus.cloudapp.azure.com:8080/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Single LEC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client http://palmdrsa-uuixbybw5myyq.eastus.cloudapp.azure.com:8080/nifi/ Client Name is Single LEC]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 0 / 0 bytes]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[No errors found!!! in Nifi Flow]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="85123" started-at="2020-05-11T09:49:10Z" data-provider="getData" finished-at="2020-05-11T09:50:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://13.234.20.246:9090/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13.234.20.246]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client http://13.234.20.246:9090/nifi/ Client Name is 13.234.20.246]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 2,559 / 1.57 MB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[Error exist in the Nifi Flow,Taking the screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+        <test-method status="PASS" signature="getUrlAndName(java.lang.String, java.lang.String)[pri:0, instance:cloudAutomation.CheckingTheErrors@56cbfb61]" name="getUrlAndName" duration-ms="125233" started-at="2020-05-11T09:50:35Z" data-provider="getData" finished-at="2020-05-11T09:52:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://34.201.22.147:9090/nifi/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34.201.22.147]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Checking for the client http://34.201.22.147:9090/nifi/ Client Name is 34.201.22.147]]>
+            </line>
+            <line>
+              <![CDATA[Checking forTotal Queued data]]>
+            </line>
+            <line>
+              <![CDATA[The Total queued data found is 19 / 17.36 KB]]>
+            </line>
+            <line>
+              <![CDATA[Checked for Total Queued data, Queued data is not more than 25MB]]>
+            </line>
+            <line>
+              <![CDATA[Checking for error messages]]>
+            </line>
+            <line>
+              <![CDATA[No errors found!!! in Nifi Flow]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUrlAndName -->
+      </class> <!-- cloudAutomation.CheckingTheErrors -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
